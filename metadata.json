@@ -1,0 +1,6 @@
+{
+  "name": "QR Attendance Excel Sheet",
+  "description": "A live full-stack student attendance system with real-time updates, security QR code rotation, student scanner check-ins, and a custom editable Microsoft Excel styled spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
